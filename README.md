@@ -5,11 +5,24 @@
 QA Analyst || QA Manual Tester || QA Automation Engineer || SDET || Project Manager
 </h3>
 
-<h3 align="center">👩‍💻 About Me</h3>
+<h3>
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/about-me.gif" width="65" align="middle"> Meet the Maker (of this Repo)
+</h3>
 
-<p align="center"> I am a Senior Software QA Engineer (5+ years of experience) specializing in building reliable, scalable, and high-quality software systems across FinTech, Healthcare, E-Commerce, Retail, and HR platforms. I focus on improving product quality through test automation, shift-left testing, and CI/CD optimization, ensuring faster and safer software releases.
+<p align="left"> I am a Senior Software QA Engineer (5+ years of experience) specializing in building reliable, scalable, and high-quality software systems across FinTech, Healthcare, E-Commerce, Retail, and HR platforms. I focus on improving product quality through test automation, shift-left testing, and CI/CD optimization, ensuring faster and safer software releases.
 </p>
 
+<h3 align="left">🚀 Key Highlights</h3>
+
+<p align="left">
+- ⚡ Reduced CI/CD build time by 50% using parallel test execution<br/>
+- 🤖 Automated smoke suites of up to 80 test cases within weeks<br/>
+- 🧪 Achieved 95%+ defect detection rate in QA cycles<br/>
+- 🔥 Improved production stability by reducing post-release defects by 30%<br/>
+- 📉 Reduced customer support issues by improving backend & workflow reliability<br/>
+- 🧭 Strong experience as QA contributor in Agile/Scrum environments
+
+</p>
 
 <h3>
   <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="65" align="middle"> My Toolbox
@@ -92,17 +105,80 @@ QA Analyst || QA Manual Tester || QA Automation Engineer || SDET || Project Mana
 
 </details>
 
+<h3>
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/postits.gif" width="65" align="middle"> Professional Projects
+</h3>
 
-🚀 Key Highlights
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="20%">Project</th>
+      <th align="left" width="35%">Solution Overview</th>
+      <th align="left" width="45%">Responsibilities & Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://chowmill.com"><strong>Chowmill</strong></a>
+      </td>
+      <td>
+        SaaS-Based Corporate Catering and Employee Meal Management Platform for Offices
+      </td>
+      <td>
+        Ensured 100% reliability of critical customer and vendor communication workflows by rigorously testing cron jobs, which eliminated delivery schedule errors and reduced customer service inquiries regarding meal timing by 15%.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.gainwelltechnologies.com"><strong>Gainwell Technologies</strong></a>
+      </td>
+      <td>
+        Medicaid Management &amp; Healthcare Eligibility/Claims Processing Platform for State Agencies.
+      </td>
+      <td>
+        Ensured accurate and uninterrupted Medicaid eligibility and claims-processing workflows by rigorously testing backend APIs and data-exchange modules, reducing recurring data mismatches and support tickets by 20%.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.trove.com"><strong>Recurate</strong></a><br>
+        <sub>(acquired by Trove Recommerce)</sub>
+      </td>
+      <td>
+        Resale Operating System for Online, In-store and Warehouse Systems.
+      </td>
+      <td>
+        Cut post-release defects by 30% through rigorous regression, API, and workflow testing, ensuring faster, smoother resale operations across online, in-store, and warehouse systems.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.kallidus.com"><strong>Kallidus</strong></a>
+      </td>
+      <td>
+        Cloud-Based HR Platform Specializing in Onboarding and Offboarding Processes.
+      </td>
+      <td>
+        Ensured the seamless functionality of our cloud-based HR platform by rigorously testing automated workflows and integrations. Resulted in a 99% defect-free release that enhanced user experience and compliance.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- ⚡ Reduced CI/CD build time by **50%** using parallel test execution
-- 🤖 Automated smoke suites of up to **80 test cases** within weeks
-- 🧪 Achieved **95%+ defect detection rate** in QA cycles
-- 🔥 Improved production stability by reducing post-release defects by **30%**
-- 📉 Reduced customer support issues by improving backend & workflow reliability
-- 🧭 Strong experience as QA contributor in Agile/Scrum environments
-  
+
+<h3>
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="65" align="middle"> GitHub Stats
+</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SherryAdams881&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SherryAdams881&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SherryAdams881&show_icons=true&count_private=true&theme=dracula" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SherryAdams881&layout=compact&count_private=true&langs_count=8&theme=dracula" height="150" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SherryAdams881&theme=dracula" />
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SherryAdams881&theme=dracula" />

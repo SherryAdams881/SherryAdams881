@@ -1,12 +1,7 @@
-<img align="center" alt="Coding" width="1000" height="150" src="https://img.pikbest.com/backgrounds/20190805/blue-purple-cool-fantasy-light-effect-banner-background_2758856.jpg!w700wp">
-<h1 align="center">Hi 👋, I'm Sherry Adams</h1>
-
-<h3 align="center">
-QA Analyst || QA Manual Tester || QA Automation Engineer || SDET || Project Manager
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sherry%20Adams&fontSize=50&fontAlign=50&fontAlignY=38&animation=fadeIn&color=0:5E81AC,50:81A1C1,100:B48EAD&desc=QA%20Automation%20Engineer%20%7C%20QA%20Analyst%20%7C%20SDET%7C%20Technical%20Project%20Manager&descAlignY=62&descSize=18" />
 
 <h3>
-  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/about-me.gif" width="65" align="middle"> Meet the Maker (of this Repo)
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/about-me.gif" width="65" align="middle"> About Me
 </h3>
 
 <p align="left"> I am a Senior Software QA Engineer (5+ years of experience) specializing in building reliable, scalable, and high-quality software systems across FinTech, Healthcare, E-Commerce, Retail, and HR platforms. I focus on improving product quality through test automation, shift-left testing, and CI/CD optimization, ensuring faster and safer software releases.
@@ -50,24 +45,12 @@ QA Analyst || QA Manual Tester || QA Automation Engineer || SDET || Project Mana
 ![Appium Badge](https://img.shields.io/badge/-Appium-3B4252?style=flat&logo=appium&logoColor=B48EAD)
 ![WebdriverIO Badge](https://img.shields.io/badge/-WebdriverIO-3B4252?style=flat&logo=webdriverio&logoColor=BF616A)
 ![BrowserStack Badge](https://img.shields.io/badge/-BrowserStack-3B4252?style=flat&logo=browserstack&logoColor=81A1C1)
-
-</details>
-
-<details>
-  <summary><strong> API Testing & Performance Engineering </strong> <sub> (click to expand) </sub></summary>
   <br>
-
 ![Postman Badge](https://img.shields.io/badge/-Postman-3B4252?style=flat&logo=postman&logoColor=D08770)
 ![Swagger Badge](https://img.shields.io/badge/-Swagger-3B4252?style=flat&logo=swagger&logoColor=B48EAD)
 ![JMeter Badge](https://img.shields.io/badge/-JMeter-3B4252?style=flat&logo=apachejmeter&logoColor=EBCB8B)
 ![Proxyman Badge](https://img.shields.io/badge/-Proxyman-3B4252?style=flat&logo=proxyman&logoColor=88C0D0)
-
-</details>
-
-<details>
-  <summary><strong> Mobile Development & Device Testing </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
+ <br>
 ![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3B4252?style=flat&logo=androidstudio&logoColor=A3BE8C)
 ![Xcode Badge](https://img.shields.io/badge/-Xcode-3B4252?style=flat&logo=xcode&logoColor=A3BE8C)
 
@@ -168,17 +151,34 @@ QA Analyst || QA Manual Tester || QA Automation Engineer || SDET || Project Mana
 
 
 <h3>
-  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="65" align="middle"> GitHub Stats
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/roadsign.gif" width="65" align="middle"> GitHub Stats
 </h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SherryAdams881&show_icons=true&count_private=true&theme=dracula" height="150" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SherryAdams881&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" height="150" />
+</div>
 
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SherryAdams881&layout=compact&count_private=true&langs_count=8&theme=dracula" height="150" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=SherryAdams881&theme=dracula" />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SherryAdams881&theme=dracula" />
+#### 🖇️ Let's Connect!
+
+[![Email Badge](https://img.shields.io/badge/-sherryadams881%40gmail.com-3B4252?style=flat&logo=gmail&logoColor=BF616A)](mailto:sherryadams881@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-SherryAdams881-3B4252?style=flat&logo=github&logoColor=ECEFF4)](https://github.com/SherryAdams881)
+
+#### Employer?
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/1w2etZ9-u5ug8rZJfOqsII3pm6qMgNfbT/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download_Resume-174a96?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
+
+
+

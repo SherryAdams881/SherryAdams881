@@ -154,15 +154,13 @@
   <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/roadsign.gif" width="65" align="middle"> GitHub Stats
 </h3>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SherryAdams881&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SherryAdams881&layout=compact&count_private=true&langs_count=8&theme=dracula" height="150" />
 </div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SherryAdams881&layout=compact&count_private=true&langs_count=8&theme=dracula" height="150" />
-</div>
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=SherryAdams881&theme=dracula" />
 </div>
 
@@ -171,13 +169,9 @@
 [![Email Badge](https://img.shields.io/badge/-sherryadams881%40gmail.com-3B4252?style=flat&logo=gmail&logoColor=BF616A)](mailto:sherryadams881@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-SherryAdams881-3B4252?style=flat&logo=github&logoColor=ECEFF4)](https://github.com/SherryAdams881)
 
-#### Employer?
+#### 🏢 Employer?
 
-<p align="left">
-  <a href="https://drive.google.com/file/d/1w2etZ9-u5ug8rZJfOqsII3pm6qMgNfbT/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Download_Resume-174a96?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-</p>
+[![Download Resume Badge](https://img.shields.io/badge/-Download%20Resume-3B4252?style=flat&logo=googledrive&logoColor=A3BE8C)](https://drive.google.com/file/d/1AYEw7M87mOX8GtzxM7HRYKLEAALgUTJ0/view?usp=sharing)
 
 
 

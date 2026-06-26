@@ -149,20 +149,28 @@
   </tbody>
 </table>
 
-
 <h3>
   <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/roadsign.gif" width="65" align="middle"> GitHub Stats
 </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SherryAdams881&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SherryAdams881&layout=compact&count_private=true&langs_count=8&theme=dracula" height="150" />
-</div>
 
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=SherryAdams881&show_icons=true&include_all_commits=true&rank_icon=github&theme=dracula&cache_seconds=1800"/>
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherryAdams881&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800"/>
+
+</div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SherryAdams881&theme=dracula" />
+
+<img src="https://streak-stats.demolab.com?user=SherryAdams881&theme=dracula"/>
+
 </div>
+
+
+
 
 #### 🖇️ Let's Connect!
 

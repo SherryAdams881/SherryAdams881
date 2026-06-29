@@ -161,7 +161,7 @@ src="https://github-readme-stats.vercel.app/api?username=SherryAdams881&show_ico
 <img height="165"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherryAdams881&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800"/>
 
-</div>
+</div> 
 
 <div align="center">
 
